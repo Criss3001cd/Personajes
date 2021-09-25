@@ -2,8 +2,8 @@ import React from "react";
 import PropTypes from'prop-types'
 
 /* let estudiante = {
-    nombre:"Brandon",
-    edad:19 
+    nombre:"Cristian",
+    edad:18 
 } */
 
 const ComponentePrueba = ({nombre,edad,genero}) =>(
